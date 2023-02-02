@@ -2,4 +2,4 @@
 ## VP 
 ##
 
-hist(rnorm(300))
+hist(rnorm(300), col="red")
