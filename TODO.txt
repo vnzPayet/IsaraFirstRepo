@@ -1,0 +1,5 @@
+Test de nouveau fichier
+
+1. Cloner un dépot
+2. Faire des Modifications
+3. Tester les étapes Add/commit/push
