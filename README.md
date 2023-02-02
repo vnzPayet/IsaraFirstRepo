@@ -1,2 +1,2 @@
 # IsaraFirstRepo
-Prise en main de git et github pour OPEN23
+Prise en main de git et github pour **OPEN23**
