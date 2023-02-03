@@ -27,7 +27,7 @@ git commit -m "Nouveau fichier"
 git push
 ```
 
-Pour que le `push` fonctionne il faut au préalable avoir crée un token :
+Si l'identification par mot de passe ne fonctionne pas pour que le `push` fonctionne il faut alors au préalable avoir crée un token :
 https://techglimpse.com/git-push-github-token-based-passwordless/
 
 Ce token (long code secret) sera utilisé à la place du mot de passe
