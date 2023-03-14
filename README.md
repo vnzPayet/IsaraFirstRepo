@@ -31,3 +31,6 @@ Si l'identification par mot de passe ne fonctionne pas pour que le `push` foncti
 https://techglimpse.com/git-push-github-token-based-passwordless/
 
 Ce token (long code secret) sera utilisé à la place du mot de passe
+
+Test micro un deux un deux
+
