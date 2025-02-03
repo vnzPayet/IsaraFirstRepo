@@ -2,4 +2,5 @@
 ## VP 
 ##
 
-hist(rnorm(300), col="red")
+MYcol <- "red"
+hist(rnorm(300), col = Mycol)
