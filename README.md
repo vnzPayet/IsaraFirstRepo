@@ -1,5 +1,5 @@
 # IsaraFirstRepo prise en main 2024
-Prise en main de git et github pour **OPEN24**
+Prise en main de git et github pour **OPEN25**
  
 
 ```
