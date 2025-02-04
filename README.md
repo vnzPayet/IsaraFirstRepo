@@ -1,4 +1,4 @@
-# IsaraFirstRepo prise en main 2024
+# IsaraFirstRepo prise en main 2025
 Prise en main de git et github pour **OPEN25**
  
 
@@ -26,6 +26,9 @@ git commit -m "Nouveau fichier"
 
 ## On pousse sur le dépot distant
 git push
+
+## Ensuite pour récupérer les modif distantes
+git pull
 ```
 
 Si l'identification par mot de passe ne fonctionne pas pour que le `push` fonctionne il faut alors au préalable avoir crée un token :
